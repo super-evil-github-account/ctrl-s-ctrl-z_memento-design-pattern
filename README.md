@@ -17,8 +17,8 @@ Memento:
 	
 CareTaker:
 
-		Stores all states
-		restore - pops back the last Memento object saved (UNDO)
+	Stores all states
+	restore - pops back the last Memento object saved (UNDO)
 	
 	
 Step 1:
